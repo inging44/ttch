@@ -1,0 +1,381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"html",
+				"htmlCode\tstatement"
+			],
+			[
+				"case",
+				"caseNames\tstatement"
+			],
+			[
+				"s",
+				"status_code\tstatement"
+			],
+			[
+				"ass",
+				"assertEqual\tfunction"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"p",
+				"print\tfunction"
+			],
+			[
+				"ap",
+				"API"
+			],
+			[
+				"se",
+				"setUp\tfunction"
+			],
+			[
+				"test",
+				"TestCase\tclass"
+			],
+			[
+				"ur",
+				"url_name"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"resp",
+				"response"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "common/bannerAPI.py",
+			"settings":
+			{
+				"buffer_size": 328,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 456.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/code/ttchInterfaceTest",
+		"/E/code/ttchInterfaceTest/.idea",
+		"/E/code/ttchInterfaceTest/__pycache__",
+		"/E/code/ttchInterfaceTest/common",
+		"/E/code/ttchInterfaceTest/testCase"
+	],
+	"file_history":
+	[
+		"/E/code/forJN/django/HelloWorld/sign/controllers/views.py",
+		"/E/code/forJN/django/HelloWorld/sign/templates/index.html",
+		"/E/code/forJN/django/HelloWorld/HelloWorld/urls.py",
+		"/E/code/ttchInterfaceTest/runTest.py",
+		"/E/code/ttchInterfaceTest/testCase/bannerTest.py",
+		"/E/code/ttchInterfaceTest/common/bannerAPI.py",
+		"/E/code/ttchInterfaceTest/caselist.conf",
+		"/E/code/ttchInterfaceTest/lagou/auto_get_lagou.py",
+		"/E/code/learnDjango/sign/controllers/views.py",
+		"/E/code/ttchInterfaceTest/lagou/https.py",
+		"/E/code/ttchInterfaceTest/lagou/a.html",
+		"/C/Users/zhe800/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/E/code/forJN/django/HelloWorld/HelloWorld/hw.sublime-project",
+		"/C/Users/zhe800/Desktop/测试数据/share-poster.json",
+		"/E/code/ttchInterfaceTest/.git/config",
+		"/E/code/ttchInterfaceTest/.git/packed-refs",
+		"/E/code/ttchInterfaceTest/.git/COMMIT_EDITMSG",
+		"/E/code/ttchInterfaceTest/caseConfig.py",
+		"/E/code/ttchInterfaceTest/ttch.sublime-project",
+		"/E/code/ttchInterfaceTest/<string>",
+		"/E/code/testCopy/config/case_list.conf",
+		"/E/code/testCopy/testcase/__init__.py",
+		"/E/code/testCopy/testcase/bannerTest.py",
+		"/E/code/testCopy/config/CaseMode.py",
+		"/E/code/testCopy/run_tests.py",
+		"/E/code/testCopy/config/httpconfig.conf",
+		"/E/code/testCopy/config/runconfig.py",
+		"/E/code/testCopy/interface/BannerAPI.py",
+		"/C/Users/zhe800/Desktop/微信封域名时间节点记录.txt",
+		"/C/Users/zhe800/Desktop/微信封域名时间节点记录。txt",
+		"/E/code/interface_upgrade/testcase/loginTest.py",
+		"/E/code/InterfaceTest/model.py",
+		"/E/code/testCopy/config/__init__.py",
+		"/E/code/testCopy/interface/__init__.py",
+		"/C/Program Files/Java/Python34/lib/site-packages/unittest2/case.py",
+		"/E/code/testCopy/mail.py",
+		"/E/code/testCopy/HTMLTestRunner.py",
+		"/E/code/testCopy/config/DBConfig.py",
+		"/E/code/testCopy/report/reporter.html",
+		"/E/code/testCopy/testcase/loginTest.py",
+		"/E/code/testCopy/interface/LoginAPI.py",
+		"/E/code/testCopy/log/sf.txt",
+		"/E/code/interface_upgrade/run_tests.py",
+		"/E/code/interface_upgrade/mail.py",
+		"/E/code/interface_upgrade/testcase/accompany.py",
+		"/E/code/interface_upgrade/testcase/complexTest.py",
+		"/E/code/interface_upgrade/config/CaseMode.py",
+		"/E/code/interface_upgrade/config/case_list.conf",
+		"/E/code/interface_upgrade/HTMLTestRunner.py",
+		"/C/Users/zhe800/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/zhe800/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/zhe800/Desktop/taobao-sdk-PYTHON-auto_1513936464162-20180425/materialOptional.py",
+		"/C/Users/zhe800/Desktop/测试数据/banner.json",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/code/InterfaceTest/LiveApp.py",
+		"/C/Users/zhe800/Desktop/taobao-sdk-PYTHON-auto_1513936464162-20180425/recommend_deal.py",
+		"/C/Users/zhe800/Desktop/taobao-sdk-PYTHON-auto_1513936464162-20180425/top/api/base.py",
+		"/C/Users/zhe800/Desktop/taobao-sdk-PYTHON-auto_1513936464162-20180425/test.py",
+		"/C/Users/zhe800/Desktop/taobao-sdk-PYTHON-auto_1513936464162-20180425/newUserOrder.py",
+		"/C/Users/zhe800/AppData/Roaming/Sublime Text 3/Packages/User/python2.sublime-build",
+		"/C/Users/zhe800/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Packages/PHP.sublime-package",
+		"/D/Program Files/Sublime Text 3/Packages/Python.sublime-package",
+		"/E/code/InterfaceTest/README.md",
+		"/C/Users/zhe800/Desktop/测试数据/99-slide.json",
+		"/C/Users/zhe800/Desktop/测试数据/session_deal.json",
+		"/C/Users/zhe800/Desktop/测试数据/barrage.json",
+		"/C/Users/zhe800/Desktop/banner_tag.json",
+		"/C/Users/zhe800/Desktop/测试数据/newVersion.json",
+		"/C/Users/zhe800/Desktop/测试数据/deals_fetch.json",
+		"/C/Users/zhe800/Desktop/测试数据/detail.json",
+		"/C/Users/zhe800/Desktop/测试数据/index-list.json",
+		"/C/Users/zhe800/Desktop/测试数据/index-info.json",
+		"/C/Users/zhe800/Desktop/测试数据/share-content.json",
+		"/C/Users/zhe800/Desktop/估时",
+		"/C/Users/zhe800/Desktop/测试数据/json1.json",
+		"/C/Users/zhe800/Desktop/测试数据/线上T12.json",
+		"/C/Users/zhe800/Desktop/测试数据/json.json",
+		"/C/Users/zhe800/Desktop/测试数据/fiddleScript.java",
+		"/C/Users/zhe800/Desktop/测试数据/11_Full.txt",
+		"/C/Users/zhe800/Documents/WXWork/1688854152471305/Cache/File/2018-09/passport-service-rebate###log.json",
+		"/C/Users/zhe800/Documents/WXWork/1688854152471305/Cache/File/2018-09/passport-user-service-rebate###log (1).json",
+		"/C/Users/zhe800/Desktop/测试数据/a.js",
+		"/C/Users/zhe800/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "common/bannerAPI.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 345.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "ttch.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
